@@ -1,0 +1,45 @@
+.body-class {
+  background-color: lightyellow;
+}
+
+.header-class {
+  background-color: lightblue;
+  color: darkgreen;
+}
+
+.nav-class {
+  background-color: lightpink;
+  color: darkpurple;
+  font-weight: bold;
+}
+
+.title-class {
+  background-color: lightpurple;
+}
+
+.section-title-class {
+  background-color: lightgreen;
+  color: darkblue;
+}
+
+.text-class {
+  color: darkred;
+}
+
+.image-class {
+  border-style: solid;
+  border-color: red;
+}
+
+.form-class {
+  background-color: lightblue;
+}
+
+.button-class {
+  background-color: mediumpurple;
+}
+
+.footer-class {
+  background-color: Lightpink;
+  color: darkblue;
+}
