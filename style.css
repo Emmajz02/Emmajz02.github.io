@@ -1,0 +1,94 @@
+.header-class {
+  background-color: lightgreen;
+}
+
+.button-class {
+  background-color: Indigo;
+  color: white;
+  padding: 25px;
+  border: 3px solid;
+  border-radius: 50px;
+  float: right; 
+}
+
+.h1-class {
+  text-align: center;
+  font-size: 40px;
+}
+
+.h2-class {
+  border: 2px solid;
+  border-radius: 5px;
+  padding: 20px;
+  background-color: green;
+}
+
+.div4-class {
+  border: 1px solid;
+  border-radius: 20px;
+  padding: 3px;
+  background-color: khaki;
+  font-size: 20px;
+}
+.div3-class {
+  border: 1px solid;
+  border-radius: 20px;
+  padding: 3px;
+  background-color: green;
+}
+
+
+.button1-class {
+  background-color: Indigo;
+  color: white;
+  padding: 25px;
+  border: 3px solid;
+  border-radius: 50px;
+  position: absolute;
+  left: 35%;
+  font-size: 20px;
+}
+
+.center-class {
+  text-align: center;
+  border-bottom-style: solid;
+}
+
+.h3-class {
+  font-size: 50px;
+  border: 2px solid;
+  border-radius: 10px;
+  padding: 3px;
+  margin: 30px;
+  background-color: green;
+}
+
+.test-class {
+  display: flex;
+  align-items: center;
+}
+
+.button2-class {
+  background-color: Indigo;
+  color: white;
+  font-size: 25px;
+  border: 3px solid;
+  padding: 25px;
+  border-radius: 50px;
+  float: right; 
+}
+
+.s-class {
+  border: 5px solid;
+  border-radius: 10px;
+  position: absolute;
+  left: 30%;
+  padding: 20px;
+  background-color: khaki;
+  
+}
+
+#map {
+  height: 600px;
+  width: 100%;
+}
